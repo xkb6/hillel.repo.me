@@ -1,0 +1,8 @@
+
+Origin: hillel
+Label: hillel
+suite: stable
+Version: 1.0
+Architectures: iphoneso-arm
+Components: main
+hillel
